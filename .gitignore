@@ -1,0 +1,5 @@
+/wwwroot/files
+/wwwroot/src/files
+/node_modules
+bin/
+obj/
